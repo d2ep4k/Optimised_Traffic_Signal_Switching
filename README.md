@@ -10,13 +10,22 @@ The exponential rise in traffic congestion in our society today is one of the mo
 
 Numerous detrimental consequences of traffic congestion include:
 
-• Wasting passengers' and drivers' time ("opportunity cost"). Congestion lowers regional economic vitality.\n
+• Wasting passengers' and drivers' time ("opportunity cost"). Congestion lowers regional economic vitality.
+
 • Delays, which could lead to being late for work, meetings, or school and result in lost business, disciplinary action, or other personal losses.
+
 • Inability to predict the duration of trips properly.
+
 • Fuel wastage from higher idling, acceleration, and braking increases air pollution and carbon dioxide emissions.
+
 • The wear and strain on vehicles brought on by frequent acceleration and braking, which results in more frequent repairs and replacements.
+
 •	Stressed and frustrated motorists, encouraging road rage and reduced health of motorists
+
 • Emergencies: Traffic congestion may prevent rescue vehicles from reaching locations where they are urgently required.
+
 • Rat running, or the spillover effect from clogged main arteries to subsidiary roads and side streets, which may have an impact on neighborhood amenities and real estate prices.
+
 • Greater likelihood of crashes as a result of close spacing and frequent stopping and starting.
+
 
