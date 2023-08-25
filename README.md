@@ -2,14 +2,16 @@
 The project's main goal is to employ computer vision to dynamically switch traffic lights at traffic intersections while analyzing the density of oncoming traffic, therefore lowering congestion and cutting waiting times, clearance times, and pollution.
 
 When pressed for time, or just generally, it is quite irritating to deal with traffic congestion and the excessive waiting times at traffic intersections.
-The project tracks and analyzes real-time incoming traffic density using open source computer vision (openCV), and then modifies waiting, crossing, and let-go times appropriately. The crossing time (green signal duration) is lowered for ends with low density and increased for ends with high density as a result. Based on current patterns, we can also determine average clearing time (i.e., average waiting time upon instant arrival) with a comparable set of limitations.
+The project tracks and analyzes real-time incoming traffic density using open source computer vision (openCV), and then modifies waiting, crossing, and let-go times appropriately.
+The crossing time (green signal duration) is lowered for ends with low density and increased for ends with high density as a result. Based on current patterns, we can also determine average clearing time (i.e., average waiting time upon instant arrival) with a comparable set of limitations.
 
 ![image](https://github.com/d2ep4k/Optimised_Traffic_Signal_Switching/assets/143197927/81c4ad92-49c4-41da-a1da-afc89030fc25)
 
 
 **The concerns this initiative aims to address:**
 
-The exponential rise in traffic congestion in our society today is one of the most important issues. The city's rising car population is beyond the capacity of the city's infrastructure. Currently, rush-hour gridlock is common, especially in internal areas where stranded cars can cause lengthy lines. The live video feed that can be collected from on-site security cameras will be analyzed using video processing in order to accomplish this. When it comes down to it, we want to put in place a feedback system for traffic switching that considers traffic density.
+The exponential rise in traffic congestion in our society today is one of the most important issues. The city's rising car population is beyond the capacity of the city's infrastructure. Currently, rush-hour gridlock is common, especially in internal areas where stranded cars can cause lengthy lines. 
+The live video feed that can be collected from on-site security cameras will be analyzed using video processing in order to accomplish this. When it comes down to it, we want to put in place a feedback system for traffic switching that considers traffic density.
 
 **Numerous detrimental consequences of traffic congestion include:**
 
