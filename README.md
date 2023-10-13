@@ -4,7 +4,7 @@ The project's main goal is to employ computer vision to dynamically switch traff
 When pressed for time, or just generally, it is quite irritating to deal with traffic congestion and the excessive waiting times at traffic intersections.
 The project tracks and analyzes real-time incoming traffic density using **Open Computer Vision Library (openCV)**, and then modifies waiting, crossing, and let-go times appropriately.
 
-*The crossing time (green signal duration) is lowered for ends with low density and increased for ends with high density as a result. Based on current patterns, we can also determine average clearing time (i.e., average waiting time upon instant arrival) with a comparable set of limitations.*
+*The crossing time (green signal duration) is lowered for ends with low density and increased for ends with high density as a result. Based on current patterns, we can also determine average clearing time (i.e., average waiting time upon arrival) with a comparable set of limitations.*
 $$\ $$
 ![image](https://github.com/d2ep4k/Optimised_Traffic_Signal_Switching/assets/143197927/5839f8e4-39c7-4a14-a4e7-087684c591d5)
 
